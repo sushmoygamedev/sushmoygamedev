@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushmoygamedev
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Unity Enigine, GameMaker Studio 2, GML
 - 💞️ I’m looking to collaborate on Game Development Team
 - 📫 How to reach me ...
 
