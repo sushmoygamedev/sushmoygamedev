@@ -9,6 +9,7 @@
 - Facebook: https://www.facebook.com/sushmoy.gamedev/
 - Twitter: https://twitter.com/SushmoyGamedev
 - Instagram: https://www.instagram.com/sushmoygamedev/
+- Itch.io: https://sushmoygamedev.itch.io
 
 <!---
 sushmoygamedev/sushmoygamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
