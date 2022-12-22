@@ -17,7 +17,7 @@
 <h3>🤝 Social Connection:</3>
 <p></p>
 <ul>
-  <li><a href="https://www.youtube.com/@sushmoygamedev">YouTube Channel</a></li>
+  <li><a href="https://www.youtube.com/@sushmoygamedev">YouTube</a></li>
   <li><a href="https://twitter.com/SushmoyGamedev">Twitter</a></li>
   <li><a href="https://www.instagram.com/sushmoygamedev/">Instagram</a></li>
   <li><a href="https://sushmoygamedev.itch.io/">Itch.IO</a></li>
